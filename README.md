@@ -1,4 +1,4 @@
-# [undercode.org](https://undercode.pages.dev)
+# [undercode.org](https://undercode.now.sh)
 
 Undercode is a platform for developers and designers alike (more like a community), committed to providing resources (free of cost) to new developers/designers. 
 
